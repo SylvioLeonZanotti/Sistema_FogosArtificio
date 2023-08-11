@@ -4,7 +4,7 @@ Você está pronto para uma experiência de tirar o fôlego no seu servidor Five
 
 Com o poderoso framework VRPEX, você terá amplo controle sobre os fogos de artifício. Personalize cada detalhe, desde o tamanho, forma e cor dos fogos até os efeitos especiais deslumbrantes. De estrelas cintilantes a padrões hipnotizantes, você terá uma variedade de opções para criar um show verdadeiramente único e cativante.
 
-Com o script de fogos de artifício VRPEX, você pode facilmente programar e sincronizar explosões em diferentes pontos do mapa, criando um espetáculo sincronizado e envolvente. Surpreenda seus jogadores em eventos especiais, feriados e comemorações, proporcionando momentos inesquecíveis e uma atmosfera mágica.
+Com o script de fogos de artifício, você pode facilmente programar e sincronizar explosões em diferentes pontos do mapa, criando um espetáculo sincronizado e envolvente. Surpreenda seus jogadores em eventos especiais, feriados e comemorações, proporcionando momentos inesquecíveis e uma atmosfera mágica.
 
 A utilização do script é simples e intuitiva, permitindo que você se concentre na criação de um espetáculo incrível. Com poucos comandos, você estará no controle total do céu, enchendo-o com explosões de cores e brilho. Seja o mestre pirotécnico do seu servidor FiveM e leve a diversão a um novo patamar!
 
