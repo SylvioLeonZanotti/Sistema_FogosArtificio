@@ -1,4 +1,4 @@
-# **Ilumine o Céu com o Script de Fogos de Artifício VRPEX para FiveM! Prepare-se para uma Experiência Pirotécnica Única!**
+# **Ilumine o Céu com o Script de Fogos de Artifício VRPEX para FiveM!**
 
 Você está pronto para uma experiência de tirar o fôlego no seu servidor FiveM? Com o script de fogos de artifício VRPEX, você poderá criar um show espetacular de luzes e cores nos céus virtuais da sua cidade! Prepare-se para uma explosão de alegria e entretenimento que vai deixar todos os jogadores maravilhados.
 
